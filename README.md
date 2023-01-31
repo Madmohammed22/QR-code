@@ -8,3 +8,11 @@ This is a solution to https://www.frontendmentor.io/challenges/qr-code-component
 # link
 - Solution URL:https://www.frontendmentor.io/solutions/html-css-Lz8_2dcrX1
 - Live Site URL:https://madmohammed22.github.io/QR-code/
+
+# My process
+-Semantic HTML5 markup
+-Flexbox
+
+# Author
+- Frontend Mentor -@Madmohammed22
+
