@@ -10,8 +10,8 @@ This is a solution to https://www.frontendmentor.io/challenges/qr-code-component
 - Live Site URL:https://madmohammed22.github.io/QR-code/
 
 # My process
--Semantic HTML5 markup
--Flexbox
+- Semantic HTML5 markup
+- Flexbox
 
 # Author
 - Frontend Mentor -https://www.frontendmentor.io/profile/Madmohammed22
