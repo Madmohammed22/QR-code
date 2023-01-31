@@ -14,5 +14,5 @@ This is a solution to https://www.frontendmentor.io/challenges/qr-code-component
 -Flexbox
 
 # Author
-- Frontend Mentor -@Madmohammed22
+- Frontend Mentor -https://www.frontendmentor.io/profile/Madmohammed22
 
